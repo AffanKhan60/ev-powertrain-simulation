@@ -3,11 +3,8 @@
 This project models a basic electric vehicle powertrain using Simulink.
 
 ## Components
-- Battery pack with SOC tracking
 - Inverter (DC to AC)
 - Induction Motor
-- Vehicle body dynamics
-- PID speed controller
 - Drive cycle input
 - Regenerative braking
 
