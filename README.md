@@ -8,7 +8,7 @@ This project models a basic electric vehicle powertrain using Simulink.
 - Induction Motor
 - Vehicle body dynamics
 - PID speed controller
-- Drive cycle input (FTP-75-like)
+- Drive cycle input
 - Regenerative braking
 
 ## Outputs
